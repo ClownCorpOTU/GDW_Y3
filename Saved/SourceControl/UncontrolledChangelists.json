@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Euanv/OneDrive/Documents/Anchorpoint/Unreal/Content/ThirdPerson/Blueprints/BP_MainCharacter.uasset",
+				"C:/Users/Euanv/OneDrive/Documents/Anchorpoint/Unreal/Content/Blueprints/Izzy/BP_Door.uasset",
 				"D:/_Projects/Unreal Projects/University/ClownCorp/GDW_Y3/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/_Projects/Unreal Projects/University/ClownCorp/GDW_Y3/Content/Maps/IzzyOpenWorld_HLOD0_Instancing.uasset",
 				"D:/_Projects/Unreal Projects/University/ClownCorp/GDW_Y3/Content/Megascans/3D_Assets/Ice_Cliff_vdfjegtdb/S_Ice_Cliff_vdfjegtdb_lod3_Var1.uasset",
