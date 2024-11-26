@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/BlackIce/Documents/GitHub/GDW_Y3/Content/ThirdPerson/Blueprints/BP_MainCharacter.uasset",
+				"C:/Users/BlackIce/Documents/GitHub/GDW_Y3/Content/Blueprints/Izzy/DialogueSystem/BP_NPC.uasset",
 				"C:/Users/Euanv/OneDrive/Documents/Anchorpoint/Unreal/Content/ThirdPerson/Blueprints/BP_MainCharacter.uasset",
 				"C:/Users/Euanv/OneDrive/Documents/Anchorpoint/Unreal/Content/Blueprints/Izzy/BP_Door.uasset",
 				"C:/Users/Euanv/OneDrive/Documents/Anchorpoint/Unreal/Content/StarterContent/Props/SM_Door.uasset",
