@@ -605,3 +605,5 @@ Saved/webcache_4430/Cache/f_000245 filter=lfs diff=lfs merge=lfs -text
 Saved/webcache_4430/Cache/f_00023e filter=lfs diff=lfs merge=lfs -text
 Saved/webcache_4430/Cache/f_000095 filter=lfs diff=lfs merge=lfs -text
 Saved/webcache_4430/Cache/f_0000cd filter=lfs diff=lfs merge=lfs -text
+*.pdb filter=lfs diff=lfs merge=lfs -text
+*.exp filter=lfs diff=lfs merge=lfs -text
