@@ -8,3 +8,7 @@
 - [How to make a Realistic Door System in Unreal Engine 5 (Part 2)](https://www.youtube.com/watch?v=uvZPmZA9Ggc)
 - [How to Make the Gap In the Wall Puzzle in Unreal Engine 5 | Resident Evil 7 Puzzle](https://www.youtube.com/watch?v=R7BjNFfspFY)
 - [How to Make An Inspection System in Unreal Engine 5 | Resident Evil & Horror Game Mechanic](https://www.youtube.com/watch?v=SKO4DDjnP70)
+
+## Gameplay Programmer (Ishaan Kishore - 100887929) Sources & Credits
+- [Dialogue System from Bence Mervay](https://youtu.be/LF8yKckkero)
+- [Quest System from Ryan Laley](https://youtube.com/playlist?list=PL4G2bSPE_8unYoX6G_UUE5QIzbySCUR_8&si=MCT7nObXhrCZcGw1)
